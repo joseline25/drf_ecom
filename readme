@@ -1,0 +1,10 @@
+Build an Ecommerce Restful API with Django Rest Framework - Tutorial
+
+Code With Clinton 
+
+Introduction
+
+API connects Application (customer) to server (backend)
+
+API is restfull if support HTTPs request (Get, Post, Put, Patch (partial update), Delete, ...)
+
